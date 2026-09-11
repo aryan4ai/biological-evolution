@@ -1,0 +1,13 @@
+{
+  "Ridge": {
+    "MAE": 0.0526,
+    "RMSE": 0.0655,
+    "R2": 0.775
+  },
+  "RandomForest": {
+    "MAE": 0.0299,
+    "RMSE": 0.0455,
+    "R2": 0.8913
+  },
+  "best_model": "RandomForest"
+}
